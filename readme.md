@@ -15,6 +15,7 @@ A single integer, the maximum number of monies you can obtain by selling your fi
 
 <tr>
 
+
 <th>Sample Input 1</th>
 
 <th>Sample Output 1</th>
